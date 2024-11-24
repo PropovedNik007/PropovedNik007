@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [My CV](https://github.com/PropovedNik007/cv/blob/main/Artur_Sogomonyan_cv_long.pdf)
+
+
 [My Portfolio Website](https://propovednik007.github.io/arterra/)
 
 <!--
