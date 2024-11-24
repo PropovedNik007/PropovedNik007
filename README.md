@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[My CV](https://github.com/PropovedNik007/cv/blob/main/Artur_Sogomonyan_cv_long.pdf)
+[My Portfolio Website](https://propovednik007.github.io/arterra/)
+
 <!--
 **PropovedNik007/PropovedNik007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
